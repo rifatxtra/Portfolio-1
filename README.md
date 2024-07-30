@@ -1,2 +1,2 @@
 # Portfolio-1
-Portfolio Website in HTML, CSS, JS
+Portfolio Website in HTML, CSS (Tailwind CSS), JS
